@@ -6,3 +6,8 @@
 img.imgstyle{
   width:50%;
 }
+
+.second {
+  font-style: italic;
+  color: grey;
+}
